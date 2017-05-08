@@ -3,17 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/modelo/RepresentanteBD.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/objeto/Representante.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/controle/ClienteC.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/objeto/Promocao.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/ws/RepresentnteWS.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/ws/ClienteWS.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/objeto/Premio.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/modelo/ClienteBD.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/objeto/Cliente.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/modelo/Conexao.java</file>
-            <file>file:/C:/Users/Karpa/Documents/NetBeansProjects/WebApplication/src/java/controle/RepresentanteC.java</file>
+            <file>file:/D:/programacao/projetos%20II/pontua/ProjetoWS/src/java/com/pontua/app/api/endpoint/ApplicationConfig.java</file>
+            <file>file:/D:/programacao/projetos%20II/pontua/ProjetoWS/web/WEB-INF/glassfish-web.xml</file>
+            <file>file:/D:/programacao/projetos%20II/pontua/ProjetoWS/src/java/com/pontua/app/modelo/ClienteBD.java</file>
+            <file>file:/D:/programacao/projetos%20II/pontua/ProjetoWS/src/java/com/pontua/app/api/endpoint/RepresentnteWS.java</file>
+            <file>file:/D:/programacao/projetos%20II/pontua/ProjetoWS/src/java/com/pontua/app/api/endpoint/ClienteWS.java</file>
         </group>
     </open-files>
 </project-private>
